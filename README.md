@@ -14,7 +14,10 @@ kernel32.dll里面有上千个函数，我们只需要其中的两个函数就�
  贴上引入dll的源码：
 
 #import "kernel32.dll"
+
 int  CopyFileW(string a0, string a1, int a2);
+
 bool CreateDirectoryW(string a0,int a1);
+
 #import
 
