@@ -8,8 +8,8 @@ import operator
 from functools import reduce
 from playsound import playsound
 import telegram
-bot = telegram.Bot(token="831834609:AAHSNmNsvA1E3YX3xzhuinqy2aa5bEy806Q")
-chatID = "-386610210" 
+bot = telegram.Bot(token="xxxxxxx")
+chatID = "-xxxxxxx" 
 
 
 def image_contrast(img1, img2):
