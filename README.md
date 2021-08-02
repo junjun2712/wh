@@ -6,6 +6,9 @@
 
 5分钟 120均线临界点买 卖
 
+
+https://yukifx.web.fc2.com/sub/make/01_root/cone/make_root.html
+
 https://fxprosystems.com/super-trend-profit/
 
 
