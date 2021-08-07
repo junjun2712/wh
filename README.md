@@ -11,6 +11,8 @@ https://yukifx.web.fc2.com/sub/make/01_root/cone/make_root.html
 
 https://fxprosystems.com/super-trend-profit/
 
+http://www.criss.school/
+
 
 外汇
 
