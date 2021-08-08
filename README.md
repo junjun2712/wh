@@ -13,6 +13,11 @@ https://fxprosystems.com/super-trend-profit/
 
 http://www.criss.school/
 
+#指标
+JBR_Indicator_System  （判断大方向）
+Trade_Confirmed_Indicator （小方向顺大方向买卖）
+结合使用
+
 
 外汇
 
