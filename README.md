@@ -2,6 +2,9 @@
 
 https://www.fxeye.us/
 
+https://www.eafxtech.com/2699.html
+
+
 1小时定方向 十日线均线向上买 十日均线向下卖 （隐藏K线只看均线）
 
 5分钟 RSI低于30买 高于70卖
