@@ -7,17 +7,17 @@
 #property link      "http://tradexperts.ru"
 
 
-extern int RSI_Period = 21;
+extern int RSI_Period = 10;
 extern int RSI_Price = 5;
-extern double RSI_Hi_Level = 80;
-extern double RSI_Lo_Level = 20;
+extern double RSI_Hi_Level = 55;
+extern double RSI_Lo_Level = 45;
 
 extern int TP = 0;
 extern int SL = 500;
 
 extern bool Martin_Flag = true;
 extern double Init_Lot = 0.1;
-extern double Koef = 2.0;
+extern double Koef = 1.0;
 
 extern bool Trailinf_Flag = true;
 extern int Trailing_Stop = 100;
