@@ -1,5 +1,10 @@
 # wh
 
+
+
+
+TUQ19x6jXcyxMRmQQsee19wxr6eQ75VTXC
+
 此剥头皮系统基于 EMA 指标。
 
 时间范围：1分钟；
