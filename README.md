@@ -1,5 +1,7 @@
 # wh
 
+https://www.daily-ea.com/ea-myfxbook.php
+
 www.jisilu.cn
 
 https://www.ninwin.c
