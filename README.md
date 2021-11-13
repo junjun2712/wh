@@ -1,5 +1,9 @@
 # wh
 
+https://www.eahub.cn/thread-14706-1-1.html
+
+https://www.eahub.cn/thread-10355-1-1.html
+
 https://www.daily-ea.com/ea-myfxbook.php
 
 www.jisilu.cn
