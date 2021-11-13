@@ -1,6 +1,6 @@
 //+------------------------------------------------------------------+
 //|                                         EMA-Crossover_Signal.mq4 |
-//|         Copyright © 2005, Jason Robinson (jnrtrading)            |
+//|         Copyright Â© 2005, Jason Robinson (jnrtrading)            |
 //|                   http://www.jnrtading.co.uk                     |
 //+------------------------------------------------------------------+
 
@@ -13,7 +13,7 @@
   | from the chart. (emas are initially set at 5 and 6)              |
   +------------------------------------------------------------------+
 */   
-#property copyright "Copyright © 2005, Jason Robinson (jnrtrading)"
+#property copyright "Copyright Â© 2005, Jason Robinson (jnrtrading)"
 #property link      "http://www.jnrtrading.co.uk"
 
 #property indicator_chart_window
@@ -89,9 +89,11 @@ int start() {
       
       if ((fasterEMAnow > slowerEMAnow) && (fasterEMAprevious < slowerEMAprevious) && (fasterEMAafter > slowerEMAafter)) {
          CrossUp[i] = Low[i] - Range*1.5;
+         Alert("up", CrossUp[i]);
       }
       else if ((fasterEMAnow < slowerEMAnow) && (fasterEMAprevious > slowerEMAprevious) && (fasterEMAafter < slowerEMAafter)) {
          CrossDown[i] = High[i] + Range*1.5;
+         Alert("down", CrossDown[i]);
       }
    }
    return(0);
