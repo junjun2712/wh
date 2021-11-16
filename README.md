@@ -6,6 +6,8 @@ https://www.eahub.cn/thread-10355-1-1.html
 
 https://www.daily-ea.com/ea-myfxbook.php
 
+https://www.forexcracked.com/metatrader-4-expert-advisors/
+
 www.jisilu.cn
 
 https://www.ninwin.c
