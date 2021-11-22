@@ -1,5 +1,12 @@
 # wh
 
+https://www.lamudi.com.ph/grand-towers-manila-studio-unit-for-10-000-only-near-de-lasalle-manila.html
+
+
+https://www.lamudi.com.ph/for-rent-studio-condo-unit-in-531-vista-taft-residences-manila.html
+
+
+
 https://www.eahub.cn/thread-14706-1-1.html
 
 https://www.eahub.cn/thread-10355-1-1.html
