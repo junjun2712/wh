@@ -1,5 +1,7 @@
 # wh
 
+https://www.lamudi.com.ph/malate-apartment-for-rent-studio-type-in-manila-10-500-pesos-only.html
+
 https://www.lamudi.com.ph/grand-towers-manila-studio-unit-for-10-000-only-near-de-lasalle-manila.html
 
 
