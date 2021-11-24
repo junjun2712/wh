@@ -26,6 +26,9 @@ smart 纯流量卡
 9280365627
 @wxll778
 
+空调
+https://www.flw.ph/thread-1154924-1-3.html
+
 https://www.lamudi.com.ph/malate-apartment-for-rent-studio-type-in-manila-10-500-pesos-only.html
 
 https://www.lamudi.com.ph/grand-towers-manila-studio-unit-for-10-000-only-near-de-lasalle-manila.html
