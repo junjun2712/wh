@@ -11,6 +11,21 @@
 微信-2：FQRTT666
 联络：09172519888 / 09199707619  / 02-72181
 
+流量卡 不限量 不限速 月租499p  首月开卡 送一月
+
+smart 纯流量卡
+
+✅30天无限数据
+✅无速度限制
+✅支持 4g/LTE/5g 手机 Smartbro Wifi 和 PLDT 家庭 Wifi 设备
+✅Giga  life 应用程式
+✅无限下载、电影串流、youtube等
+✅高达 100mbps 的速度
+✅性能取决于位置 每个地方测速都不一样
+需要联系法✈️：
+9280365627
+@wxll778
+
 https://www.lamudi.com.ph/malate-apartment-for-rent-studio-type-in-manila-10-500-pesos-only.html
 
 https://www.lamudi.com.ph/grand-towers-manila-studio-unit-for-10-000-only-near-de-lasalle-manila.html
