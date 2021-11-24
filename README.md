@@ -6,6 +6,11 @@
 房产公证
 飞机：@mqnila0
 
+装修
+微信-1：YTH58998
+微信-2：FQRTT666
+联络：09172519888 / 09199707619  / 02-72181
+
 https://www.lamudi.com.ph/malate-apartment-for-rent-studio-type-in-manila-10-500-pesos-only.html
 
 https://www.lamudi.com.ph/grand-towers-manila-studio-unit-for-10-000-only-near-de-lasalle-manila.html
