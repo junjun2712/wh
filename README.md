@@ -4,6 +4,9 @@ Olbes, Sharmmela Sharmai
 
 Pasao, Mia Raja Paras
 
+mysql dba工作笔记 pdf
+http://www.javalearns.com/mobile/java1/Html/?6145.html
+
 网络
 纸飞机：@Pldt8
 
