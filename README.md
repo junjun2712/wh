@@ -1,5 +1,7 @@
 # wh
 
+不如用transferwise或者remilty
+
 v:qq252604277 开网店
 
 Olbes, Sharmmela Sharmai 
