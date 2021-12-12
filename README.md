@@ -1,5 +1,7 @@
 # wh
 
+smart bro rocket sim with 30 day unli data
+
 不如用transferwise或者remilty
 
 v:qq252604277 开网店
