@@ -1,5 +1,8 @@
 # wh
 
+录屏工具：
+https://github.com/JustDoPython/python-examples/tree/master/xianhuan/videor
+
 smart bro rocket sim with 30 day unli data
 
 不如用transferwise或者remilty
