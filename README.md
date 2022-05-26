@@ -3,79 +3,8 @@
 
 
 
-https://fuly.ai/
-
-https://www.pionex.cc/zh-CN/sign/ref/fyOPWn82
 
 
-录屏工具：
-https://github.com/JustDoPython/python-examples/tree/master/xianhuan/videor
-
-smart bro rocket sim with 30 day unli data
-
-不如用transferwise或者remilty
-
-v:qq252604277 开网店
-
-Olbes, Sharmmela Sharmai 
-
-Pasao, Mia Raja Paras
-
-mysql dba工作笔记 pdf
-http://www.javalearns.com/mobile/java1/Html/?6145.html
-
-网络
-纸飞机：@Pldt8
-
-房产公证
-飞机：@mqnila0
-
-装修
-微信-1：YTH58998
-微信-2：FQRTT666
-联络：09172519888 / 09199707619  / 02-72181
-
-流量卡 不限量 不限速 月租499p  首月开卡 送一月
-
-smart 纯流量卡
-
-✅30天无限数据
-✅无速度限制
-✅支持 4g/LTE/5g 手机 Smartbro Wifi 和 PLDT 家庭 Wifi 设备
-✅Giga  life 应用程式
-✅无限下载、电影串流、youtube等
-✅高达 100mbps 的速度
-✅性能取决于位置 每个地方测速都不一样
-需要联系法✈️：
-9280365627
-@wxll778
-
-空调
-https://www.flw.ph/thread-1154924-1-3.html
-
-https://www.lamudi.com.ph/malate-apartment-for-rent-studio-type-in-manila-10-500-pesos-only.html
-
-https://www.lamudi.com.ph/grand-towers-manila-studio-unit-for-10-000-only-near-de-lasalle-manila.html
-
-
-https://www.lamudi.com.ph/for-rent-studio-condo-unit-in-531-vista-taft-residences-manila.html
-
-
-
-https://www.eahub.cn/thread-14706-1-1.html
-
-https://www.eahub.cn/thread-10355-1-1.html
-
-https://www.daily-ea.com/ea-myfxbook.php
-
-https://www.forexcracked.com/metatrader-4-expert-advisors/
-
-www.jisilu.cn
-
-https://www.ninwin.c
-
-
-TUQ19x6jXcyxMRmQQsee19wxr6eQ75VTXC
 
 此剥头皮系统基于 EMA 指标。
 
