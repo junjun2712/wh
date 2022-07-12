@@ -1,5 +1,8 @@
 https://www.forexfactory.com/thread/410815-daily-profit-procedure
 
+https://www.forexfactory.com/thread/post/6240084#post6240084
+
+
 我正在寻找一个程序，mql4，当我达到一个货币对的每日利润限制时，它会告诉我是真是假。我已经尝试了以下代码，但它总是返回 false
 
 
