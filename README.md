@@ -4,6 +4,9 @@
 https://www.ixigua.com/6825476105395241483?logTag=c9e2ecc4a30c37ed057c
 
 
+https://www.lazada.com.ph/products/raw-material-tape-sealing-belt-1-roll-waterproof-insulating-tape-universal-for-kitchen-bathroom-faucet-hose-shower-water-heater-hose-repair-tool-i1474064611-s6063266315.html?clickTrackInfo=undefined&search=1&source=search&spm=a2o4l.searchlist.list.i40.65ea5b8bE4eRZj
+
+
 
 
 
